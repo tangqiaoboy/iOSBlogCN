@@ -11,6 +11,7 @@ iOSBlogCN
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
 [破船之家](http://beyondvincent.com) | <http://beyondvincent.com/atom.xml>
 [NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
+[Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>
 [唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
 [Lex iOS notes](http://ios.lextang.com) | <http://ios.lextang.com/rss>
 [念茜的博客](http://blog.csdn.net) | <http://blog.csdn.net/yiyaaixuexi/rss/list>
@@ -35,6 +36,13 @@ iOSBlogCN
 [代码手工艺人](http://joeyio.com) | <http://joeyio.com/atom.xml>
 [Lancy's Blog](http://gracelancy.com) | <http://gracelancy.com/atom.xml>
 [I'm Allen](http://www.imallen.com) | <http://www.imallen.com/atom.xml>
+[Travis' Blog](http://imi.im/)| <http://imi.im/feed>
+[王中周的个人博客](http://blog.csdn.net/wzzvictory) |<http://blog.csdn.net/wzzvictory/rss/list>
+[会写代码的猪](http://jiajun.org/)|<http://gaosboy.com/feed/atom/>
+[克伟的博客](http://wangkewei.cnblogs.com/)|<http://feed.cnblogs.com/blog/u/23857/rss>
+
+
+
 
 
 

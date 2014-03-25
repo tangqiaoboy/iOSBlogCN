@@ -40,7 +40,7 @@ iOSBlogCN
 [王中周的个人博客](http://blog.csdn.net/wzzvictory) |<http://blog.csdn.net/wzzvictory/rss/list>
 [会写代码的猪](http://jiajun.org/)|<http://gaosboy.com/feed/atom/>
 [克伟的博客](http://wangkewei.cnblogs.com/)|<http://feed.cnblogs.com/blog/u/23857/rss>
-
+[摇滚诗人](http://cnblogs.com/biosli)|<http://feed.cnblogs.com/blog/u/35410/rss>
 
 
 

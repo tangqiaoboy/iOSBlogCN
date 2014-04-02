@@ -16,6 +16,7 @@ iOSBlogCN
 [Lex iOS notes](http://ios.lextang.com) | <http://ios.lextang.com/rss>
 [念茜的博客](http://blog.csdn.net) | <http://blog.csdn.net/yiyaaixuexi/rss/list>
 [Xcode Dev](http://blog.xcodev.com) | <http://blog.xcodev.com/atom.xml>
+[Ted's Homepage](http://wufawei.com/)| <http://wufawei.com/feed>
 [txx's blog](http://blog.t-xx.me) | <http://blog.t-xx.me/atom.xml>
 [KEVIN BLOG](http://imkevin.me) | <http://imkevin.me/rss>
 [阿毛的蛋疼地](http://xiangwangfeng.com) | <http://xiangwangfeng.com/feed/>
@@ -41,7 +42,7 @@ iOSBlogCN
 [会写代码的猪](http://jiajun.org/)|<http://gaosboy.com/feed/atom/>
 [克伟的博客](http://wangkewei.cnblogs.com/)|<http://feed.cnblogs.com/blog/u/23857/rss>
 [摇滚诗人](http://cnblogs.com/biosli)|<http://feed.cnblogs.com/blog/u/35410/rss>
-
+[Luke's Homepage](http://geeklu.com/) | <http://geeklu.com/feed/>
 
 
 

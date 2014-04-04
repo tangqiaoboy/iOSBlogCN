@@ -44,7 +44,7 @@ iOSBlogCN
 [摇滚诗人](http://cnblogs.com/biosli)|<http://feed.cnblogs.com/blog/u/35410/rss>
 [Luke's Homepage](http://geeklu.com/) | <http://geeklu.com/feed/>
 [萧宸宇](http://iiiyu.com/) | <http://iiiyu.com/atom.xml>
-
+[Yuan博客](http://www.heyuan110.com/) | <http://www.heyuan110.com/?feed=rss2>
 
 
 

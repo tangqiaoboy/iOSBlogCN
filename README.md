@@ -43,6 +43,7 @@ iOSBlogCN
 [克伟的博客](http://wangkewei.cnblogs.com/)|<http://feed.cnblogs.com/blog/u/23857/rss>
 [摇滚诗人](http://cnblogs.com/biosli)|<http://feed.cnblogs.com/blog/u/35410/rss>
 [Luke's Homepage](http://geeklu.com/) | <http://geeklu.com/feed/>
+[萧宸宇](http://iiiyu.com/) | <http://iiiyu.com/atom.xml>
 
 
 

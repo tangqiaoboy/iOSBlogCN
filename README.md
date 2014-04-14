@@ -45,6 +45,7 @@ iOSBlogCN
 [Luke's Homepage](http://geeklu.com/) | <http://geeklu.com/feed/>
 [萧宸宇](http://iiiyu.com/) | <http://iiiyu.com/atom.xml>
 [Yuan博客](http://www.heyuan110.com/) | <http://www.heyuan110.com/?feed=rss2>
-
+[Shining IO](http://shiningio.com/) | <http://shiningio.com/atom.xml>
+[YIFEIYANG--易飞扬的博客](http://www.yifeiyang.net/) | <http://www.yifeiyang.net/feed>
 
 

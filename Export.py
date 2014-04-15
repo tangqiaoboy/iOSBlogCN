@@ -1,5 +1,7 @@
 __author__ = 'wwxiang'
 
+#coding=utf-8
+
 import tkinter
 import tkinter.messagebox
 import tkinter.filedialog

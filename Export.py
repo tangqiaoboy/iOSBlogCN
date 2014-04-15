@@ -19,7 +19,7 @@ class GuiApp:
         self.fileData = None
         pass
     def cre_gui(self):
-        lab = tkinter.Label(self.root,text='从README.md文件中分析出适合的RES文件，并导出。')
+        lab = tkinter.Label(self.root,text='提取README.md并导出res.xml文件')
         lab.pack(padx=5,pady=5,anchor='w')
         self.export = tkinter.Button(self.root,text='Export')
         self.export.pack(padx=5,pady=5,anchor='w')
@@ -27,18 +27,13 @@ class GuiApp:
         pass
     def handler(self,event):
         filename = tkinter.filedialog.askopenfilename()
+        if not len(filename):
+            tkinter.messagebox.showerror('错误','未选择文件')
+            self.export.option_clear()
+            return
         isblock = True
         handlerData = []
         lineNo = 0
-        '''
-            逻辑，逐行读取，忽略回车，空格。
-
-            如果第一个字符不是[则忽略，如果是则这一条数据，分解为三个键值对，为title，url，resURL
-
-            一个字典，加入一个列表
-
-            最后一行停止循环，锁上。
-        '''
         try:
             with open(filename,'rb') as linefs:
                 lineCout = len(linefs.readlines())
@@ -51,13 +46,6 @@ class GuiApp:
                         isblock = False
                     if not val[0] == '[':
                         continue
-                    '''
-                        正则匹配()[]<>中的值，构建xml
-
-                        结构如下：
-                        <outline text="" title="" type="rss" xmlUrl="" htmlUrl=""/>
-
-                    '''
                     title = re.findall(r'\[(.+?)\]',val)[0]
                     xmlUrl = re.findall(r'<(.+?)>',val)[0]
                     htmlUrl = re.findall(r'\((.+?)\)',val)[0]
@@ -65,6 +53,8 @@ class GuiApp:
                 fs.close()
         except:
             tkinter.messagebox.showerror('错误处理','读取文件失败')
+            self.export.option_clear()
+            return
         export_xml = '<?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>导出订阅</title></head><body>\n'
         export_xml += '\r\n'.join(handlerData)
         export_xml += '</body></opml>'

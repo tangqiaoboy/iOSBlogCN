@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>导出订阅</title></head><body>
+<?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>导出订阅</title></head><body><outline>
 <outline text="OneV's Den" title="OneV's Den" type="rss" xmlUrl="http://onevcat.com/atom.xml" htmlUrl="http://onevcat.com"/>
 <outline text="破船之家" title="破船之家" type="rss" xmlUrl="http://beyondvincent.com/atom.xml" htmlUrl="http://beyondvincent.com"/>
 <outline text="NSHipster" title="NSHipster" type="rss" xmlUrl="http://nshipster.cn/feed.xml" htmlUrl="http://nshipster.cn"/>
@@ -37,4 +37,4 @@
 <outline text="萧宸宇" title="萧宸宇" type="rss" xmlUrl="http://iiiyu.com/atom.xml" htmlUrl="http://iiiyu.com/"/>
 <outline text="Yuan博客" title="Yuan博客" type="rss" xmlUrl="http://www.heyuan110.com/?feed=rss2" htmlUrl="http://www.heyuan110.com/"/>
 <outline text="Shining IO" title="Shining IO" type="rss" xmlUrl="http://shiningio.com/atom.xml" htmlUrl="http://shiningio.com/"/>
-<outline text="YIFEIYANG--易飞扬的博客" title="YIFEIYANG--易飞扬的博客" type="rss" xmlUrl="http://www.yifeiyang.net/feed" htmlUrl="http://www.yifeiyang.net/"/></body></opml>
+<outline text="YIFEIYANG--易飞扬的博客" title="YIFEIYANG--易飞扬的博客" type="rss" xmlUrl="http://www.yifeiyang.net/feed" htmlUrl="http://www.yifeiyang.net/"/></outline></body></opml>

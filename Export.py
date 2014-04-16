@@ -33,13 +33,13 @@ def handler():
     except:
         print('错误处理','读取文件失败')
         return
-    export_xml = '<?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>导出订阅</title></head><body>\n'
+    export_xml = '<?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>导出订阅</title></head><body><outline text="ios" title="ios" >\n'
     export_xml += '\r\n'.join(handlerData)
-    export_xml += '</body></opml>'
+    export_xml += '</outline></body></opml>'
     with open(resxml,'wb') as fs:
         fs.write(export_xml.encode())
         fs.close()
-    print('blogcn.opml文件处理完成')
+    print('res.xml文件处理完成')
     pass
 if os.path.isfile(workmd):
     handler()

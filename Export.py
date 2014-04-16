@@ -6,7 +6,7 @@ import os
 import re
 
 work = os.getcwd()
-resxml = work + os.path.sep + 'res.xml'
+resxml = work + os.path.sep + 'blogcn.opml'
 workmd = work + os.path.sep + 'README.md'
 
 def handler():
@@ -39,7 +39,7 @@ def handler():
     with open(resxml,'wb') as fs:
         fs.write(export_xml.encode())
         fs.close()
-    print('res.xml文件处理完成')
+    print('blogcn.opml文件处理完成')
     pass
 if os.path.isfile(workmd):
     handler()

@@ -50,4 +50,4 @@ iOSBlogCN
 [Shining IO](http://shiningio.com/) | <http://shiningio.com/atom.xml>
 [YIFEIYANG--易飞扬的博客](http://www.yifeiyang.net/) | <http://www.yifeiyang.net/feed>
 [KooFrank's Blog](http://koofrank.com/) | <http://koofrank.com/atom.xml>
-
+[hello it works](http://helloitworks.com) | <http://helloitworks.com/feed>

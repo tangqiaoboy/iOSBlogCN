@@ -31,7 +31,6 @@ iOSBlogCN
 [Cocoabit](http://blog.cocoabit.com) | <http://blog.cocoabit.com/atom.xml>
 [nixzhu on scriptogr.am](http://nixzhu.me) | <http://nixzhu.me/feed>
 [不会开机的男孩](http://studentdeng.github.io) | <http://studentdeng.github.io/atom.xml>
-[Issue Press](http://issuepress.sugarmo.com) | <http://issuepress.sugarmo.com/atom.xml>
 [Nico](http://www.taofengping.com) | <http://www.taofengping.com/rss.xml>
 [阿峰的技术窝窝](http://hufeng825.github.io) | <http://hufeng825.github.io/atom.xml>
 [answer_huang](http://answerhuang.duapp.com) | <http://answerhuang.duapp.com/index.php/feed/>

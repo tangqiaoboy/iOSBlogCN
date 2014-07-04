@@ -5,7 +5,7 @@
 <outline text="Limboy 无网不剩" title="Limboy 无网不剩" type="rss" xmlUrl="http://feeds.feedburner.com/lzyy" htmlUrl="http://blog.leezhong.com/"/>
 <outline text="唐巧的技术博客" title="唐巧的技术博客" type="rss" xmlUrl="http://blog.devtang.com/atom.xml" htmlUrl="http://blog.devtang.com"/>
 <outline text="Lex iOS notes" title="Lex iOS notes" type="rss" xmlUrl="http://ios.lextang.com/rss" htmlUrl="http://ios.lextang.com"/>
-<outline text="念茜的博客" title="念茜的博客" type="rss" xmlUrl="http://blog.csdn.net/yiyaaixuexi/rss/list" htmlUrl="http://blog.csdn.net"/>
+<outline text="念茜的博客" title="念茜的博客" type="rss" xmlUrl="http://blog.csdn.net/yiyaaixuexi/rss/list" htmlUrl="http://blog.csdn.net/yiyaaixuexi"/>
 <outline text="Xcode Dev" title="Xcode Dev" type="rss" xmlUrl="http://blog.xcodev.com/atom.xml" htmlUrl="http://blog.xcodev.com"/>
 <outline text="Ted's Homepage" title="Ted's Homepage" type="rss" xmlUrl="http://wufawei.com/feed" htmlUrl="http://wufawei.com/"/>
 <outline text="txx's blog" title="txx's blog" type="rss" xmlUrl="http://blog.t-xx.me/atom.xml" htmlUrl="http://blog.t-xx.me"/>
@@ -20,7 +20,6 @@
 <outline text="Cocoabit" title="Cocoabit" type="rss" xmlUrl="http://blog.cocoabit.com/atom.xml" htmlUrl="http://blog.cocoabit.com"/>
 <outline text="nixzhu on scriptogr.am" title="nixzhu on scriptogr.am" type="rss" xmlUrl="http://nixzhu.me/feed" htmlUrl="http://nixzhu.me"/>
 <outline text="不会开机的男孩" title="不会开机的男孩" type="rss" xmlUrl="http://studentdeng.github.io/atom.xml" htmlUrl="http://studentdeng.github.io"/>
-<outline text="Issue Press" title="Issue Press" type="rss" xmlUrl="http://issuepress.sugarmo.com/atom.xml" htmlUrl="http://issuepress.sugarmo.com"/>
 <outline text="Nico" title="Nico" type="rss" xmlUrl="http://www.taofengping.com/rss.xml" htmlUrl="http://www.taofengping.com"/>
 <outline text="阿峰的技术窝窝" title="阿峰的技术窝窝" type="rss" xmlUrl="http://hufeng825.github.io/atom.xml" htmlUrl="http://hufeng825.github.io"/>
 <outline text="answer_huang" title="answer_huang" type="rss" xmlUrl="http://answerhuang.duapp.com/index.php/feed/" htmlUrl="http://answerhuang.duapp.com"/>
@@ -38,4 +37,5 @@
 <outline text="Yuan博客" title="Yuan博客" type="rss" xmlUrl="http://www.heyuan110.com/?feed=rss2" htmlUrl="http://www.heyuan110.com/"/>
 <outline text="Shining IO" title="Shining IO" type="rss" xmlUrl="http://shiningio.com/atom.xml" htmlUrl="http://shiningio.com/"/>
 <outline text="YIFEIYANG--易飞扬的博客" title="YIFEIYANG--易飞扬的博客" type="rss" xmlUrl="http://www.yifeiyang.net/feed" htmlUrl="http://www.yifeiyang.net/"/>
-<outline text="KooFrank's Blog" title="KooFrank's Blog" type="rss" xmlUrl="http://koofrank.com/atom.xml" htmlUrl="http://koofrank.com/"/></outline></body></opml>
+<outline text="KooFrank's Blog" title="KooFrank's Blog" type="rss" xmlUrl="http://koofrank.com/atom.xml" htmlUrl="http://koofrank.com/"/>
+<outline text="hello it works" title="hello it works" type="rss" xmlUrl="http://helloitworks.com/feed" htmlUrl="http://helloitworks.com"/></outline></body></opml>

@@ -40,7 +40,7 @@ iOSBlogCN
 [Lancy's Blog](http://gracelancy.com) | <http://gracelancy.com/atom.xml>
 [I'm Allen](http://www.imallen.com) | <http://www.imallen.com/atom.xml>
 [Travis' Blog](http://imi.im/)| <http://imi.im/feed>
-[王中周的个人博客](http://blog.csdn.net/wzzvictory) |<http://blog.csdn.net/wzzvictory/rss/list>
+[王中周的技术博客](http://wangzz.github.io/) |<http://wangzz.github.io/atom.xml>
 [会写代码的猪](http://jiajun.org/)|<http://gaosboy.com/feed/atom/>
 [克伟的博客](http://wangkewei.cnblogs.com/)|<http://feed.cnblogs.com/blog/u/23857/rss>
 [摇滚诗人](http://cnblogs.com/biosli)|<http://feed.cnblogs.com/blog/u/35410/rss>

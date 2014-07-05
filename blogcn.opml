@@ -28,7 +28,7 @@
 <outline text="Lancy's Blog" title="Lancy's Blog" type="rss" xmlUrl="http://gracelancy.com/atom.xml" htmlUrl="http://gracelancy.com"/>
 <outline text="I'm Allen" title="I'm Allen" type="rss" xmlUrl="http://www.imallen.com/atom.xml" htmlUrl="http://www.imallen.com"/>
 <outline text="Travis' Blog" title="Travis' Blog" type="rss" xmlUrl="http://imi.im/feed" htmlUrl="http://imi.im/"/>
-<outline text="王中周的个人博客" title="王中周的个人博客" type="rss" xmlUrl="http://blog.csdn.net/wzzvictory/rss/list" htmlUrl="http://blog.csdn.net/wzzvictory"/>
+<outline text="王中周的技术博客" title="王中周的技术博客" type="rss" xmlUrl="http://wangzz.github.io/atom.xml" htmlUrl="http://wangzz.github.io/"/>
 <outline text="会写代码的猪" title="会写代码的猪" type="rss" xmlUrl="http://gaosboy.com/feed/atom/" htmlUrl="http://jiajun.org/"/>
 <outline text="克伟的博客" title="克伟的博客" type="rss" xmlUrl="http://feed.cnblogs.com/blog/u/23857/rss" htmlUrl="http://wangkewei.cnblogs.com/"/>
 <outline text="摇滚诗人" title="摇滚诗人" type="rss" xmlUrl="http://feed.cnblogs.com/blog/u/35410/rss" htmlUrl="http://cnblogs.com/biosli"/>

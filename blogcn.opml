@@ -38,4 +38,6 @@
 <outline text="Shining IO" title="Shining IO" type="rss" xmlUrl="http://shiningio.com/atom.xml" htmlUrl="http://shiningio.com/"/>
 <outline text="YIFEIYANG--易飞扬的博客" title="YIFEIYANG--易飞扬的博客" type="rss" xmlUrl="http://www.yifeiyang.net/feed" htmlUrl="http://www.yifeiyang.net/"/>
 <outline text="KooFrank's Blog" title="KooFrank's Blog" type="rss" xmlUrl="http://koofrank.com/atom.xml" htmlUrl="http://koofrank.com/"/>
-<outline text="hello it works" title="hello it works" type="rss" xmlUrl="http://helloitworks.com/feed" htmlUrl="http://helloitworks.com"/></outline></body></opml>
+<outline text="hello it works" title="hello it works" type="rss" xmlUrl="http://helloitworks.com/feed" htmlUrl="http://helloitworks.com"/>
+<outline text="码农人生" title="码农人生" type="rss" xmlUrl="http://msching.github.io/atom.xml" htmlUrl="http://msching.github.io/"/>
+<outline text="玉令天下的Blog" title="玉令天下的Blog" type="rss" xmlUrl="http://yulingtianxia.com/atom.xml" htmlUrl="http://yulingtianxia.com"/></outline></body></opml>

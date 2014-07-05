@@ -50,3 +50,5 @@ iOSBlogCN
 [YIFEIYANG--易飞扬的博客](http://www.yifeiyang.net/) | <http://www.yifeiyang.net/feed>
 [KooFrank's Blog](http://koofrank.com/) | <http://koofrank.com/atom.xml>
 [hello it works](http://helloitworks.com) | <http://helloitworks.com/feed>
+[码农人生](http://msching.github.io/) | <http://msching.github.io/atom.xml>
+[玉令天下的Blog](http://yulingtianxia.com) | <http://yulingtianxia.com/atom.xml>

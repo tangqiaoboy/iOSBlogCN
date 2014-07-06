@@ -52,3 +52,4 @@ iOSBlogCN
 [hello it works](http://helloitworks.com) | <http://helloitworks.com/feed>
 [码农人生](http://msching.github.io/) | <http://msching.github.io/atom.xml>
 [玉令天下的Blog](http://yulingtianxia.com) | <http://yulingtianxia.com/atom.xml>
+[不掏蜂窝的熊](http://www.hotobear.com/) | <http://www.hotobear.com/?feed=rss2>

@@ -5,6 +5,8 @@ iOSBlogCN
 
 本博客列表会不断更新维护，如果有推荐的博客，请到此处[提交博客信息](https://github.com/tangqiaoboy/iOSBlogCN/issues/1)。
 
+本博客列表涉及的文章内容支持 [定制化Google搜索](https://www.google.com/cse/publicurl?cx=006531766708784105585:e42hjzmqfcu)，特别感谢 [JeOam](https://github.com/JeOam) 提供并帮助更新。
+
 本博客列表也提供同步更新的OPML文件（[下载OPML文件](https://github.com/tangqiaoboy/iOSBlogCN/raw/master/blogcn.opml)），可供导入到例如feedly等第三方定阅工具中，特别感谢 [lcepy](https://github.com/lcepy) 提供自动转换脚本。这里有[导入教程](http://blog.feedly.com/feedlimport/)。
 
 

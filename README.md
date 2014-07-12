@@ -1,7 +1,5 @@
-iOSBlogCN
-=========
-
 中文 iOS/Mac 开发博客列表。
+=========
 
 本博客列表会不断更新维护，如果有推荐的博客，请到此处[提交博客信息](https://github.com/tangqiaoboy/iOSBlogCN/issues/1)。
 

@@ -21,7 +21,7 @@
 [Ted's Homepage](http://wufawei.com/)| <http://wufawei.com/feed>
 [txx's blog](http://blog.t-xx.me) | <http://blog.t-xx.me/atom.xml>
 [KEVIN BLOG](http://imkevin.me) | <http://imkevin.me/rss>
-[阿毛的蛋疼地](http://xiangwangfeng.com) | <http://xiangwangfeng.com/feed/>
+[阿毛的蛋疼地](http://www.xiangwangfeng.com) | <http://www.xiangwangfeng.com/atom.xml>
 [亚庆的 Blog](http://billwang1990.github.io) | <http://billwang1990.github.io/atom.xml>
 [Nonomori](http://nonomori.farbox.com) | <http://nonomori.farbox.com/feed>
 [言无不尽](http://tang3w.com) | <http://tang3w.com/atom.xml>

@@ -54,3 +54,4 @@
 [玉令天下的Blog](http://yulingtianxia.com) | <http://yulingtianxia.com/atom.xml>
 [不掏蜂窝的熊](http://www.hotobear.com/) | <http://www.hotobear.com/?feed=rss2>
 [猫·仁波切](https://andelf.github.io/) | <https://andelf.github.io/atom.xml>
+[煲仔饭](http://ivoryxiong.org/) | <http://ivoryxiong.org/feed.xml>

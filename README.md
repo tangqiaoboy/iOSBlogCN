@@ -55,3 +55,4 @@
 [不掏蜂窝的熊](http://www.hotobear.com/) | <http://www.hotobear.com/?feed=rss2>
 [猫·仁波切](https://andelf.github.io/) | <https://andelf.github.io/atom.xml>
 [煲仔饭](http://ivoryxiong.org/) | <http://ivoryxiong.org/feed.xml>
+[里脊串的开发随笔](http://adad184.com) | <http://adad184.com/atom.xml>

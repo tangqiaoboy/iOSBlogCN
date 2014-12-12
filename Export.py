@@ -35,7 +35,7 @@ def handler():
         return
     export_xml = '<?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>导出订阅</title></head><body><outline text="ios" title="ios" >\n'
     export_xml += '\r\n'.join(handlerData)
-    export_xml += '</outline></body></opml>'
+    export_xml += '</outline></body></opml>\r\n'
     with open(resxml,'wb') as fs:
         fs.write(export_xml.encode())
         fs.close()
@@ -43,3 +43,4 @@ def handler():
     pass
 if os.path.isfile(workmd):
     handler()
+

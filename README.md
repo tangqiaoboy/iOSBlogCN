@@ -56,3 +56,4 @@
 [猫·仁波切](https://andelf.github.io/) | <https://andelf.github.io/atom.xml>
 [煲仔饭](http://ivoryxiong.org/) | <http://ivoryxiong.org/feed.xml>
 [里脊串的开发随笔](http://adad184.com) | <http://adad184.com/atom.xml>
+[Chun Tips](http://chun.tips/)| <http://chun.tips/atom.xml>

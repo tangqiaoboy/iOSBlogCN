@@ -15,7 +15,7 @@
 [NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
 [Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>
 [唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
-[Lex iOS notes](http://ios.lextang.com) | <http://ios.lextang.com/rss>
+[Lex Tang](http://lexrus.com/) | <http://lexrus.com/feed.xml>
 [念茜的博客](http://nianxi.net) | <http://nianxi.net/feed.xml>
 [Xcode Dev](http://blog.xcodev.com) | <http://blog.xcodev.com/atom.xml>
 [Ted's Homepage](http://wufawei.com/)| <http://wufawei.com/feed>

@@ -33,7 +33,7 @@
 [Nico](http://www.taofengping.com) | <http://www.taofengping.com/rss.xml>
 [阿峰的技术窝窝](http://hufeng825.github.io) | <http://hufeng825.github.io/atom.xml>
 [answer_huang](http://answerhuang.duapp.com) | <http://answerhuang.duapp.com/index.php/feed/>
-[webfrogs](http://webfrogs.me) | <http://webfrogs.me/feed/>
+[webfrogs](http://blog.nswebfrog.com/) | <http://blog.nswebfrog.com/feed/>
 [代码手工艺人](http://joeyio.com) | <http://joeyio.com/atom.xml>
 [Lancy's Blog](http://gracelancy.com) | <http://gracelancy.com/atom.xml>
 [I'm Allen](http://www.imallen.com) | <http://www.imallen.com/atom.xml>

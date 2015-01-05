@@ -27,7 +27,6 @@
 [言无不尽](http://tang3w.com) | <http://tang3w.com/atom.xml>
 [Wonderffee's Blog](http://wonderffee.github.io) | <http://wonderffee.github.io/atom.xml>
 [I'm TualatriX](http://imtx.me) | <http://imtx.me/feed/latest/>
-[vclwei](http://vclwei.com) | <http://vclwei.com/posts.rss>
 [Cocoabit](http://blog.cocoabit.com) | <http://blog.cocoabit.com/atom.xml>
 [nixzhu on scriptogr.am](http://nixzhu.me) | <http://nixzhu.me/feed>
 [不会开机的男孩](http://studentdeng.github.io) | <http://studentdeng.github.io/atom.xml>

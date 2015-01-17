@@ -57,3 +57,5 @@
 [里脊串的开发随笔](http://adad184.com) | <http://adad184.com/atom.xml>
 [Chun Tips](http://chun.tips/)| <http://chun.tips/atom.xml>
 [Why's blog - 汪海的实验室](http://blog.callmewhy.com/) | <http://blog.callmewhy.com/atom.xml>
+[Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/) | <http://www.cnblogs.com/kenshincui/rss>
+[技术哥的博客](http://suenblog.duapp.com/) | <http://suenblog.duapp.com/rss/>

@@ -59,4 +59,4 @@
 [Why's blog - 汪海的实验室](http://blog.callmewhy.com/) | <http://blog.callmewhy.com/atom.xml>
 [Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/) | <http://www.cnblogs.com/kenshincui/rss>
 [技术哥的博客](http://suenblog.duapp.com/) | <http://suenblog.duapp.com/rss/>
-[玉令天下的博客](http://yulingtianxia.com/blog/archives/) | <http://yulingtianxia.com/blog/archives/>
+

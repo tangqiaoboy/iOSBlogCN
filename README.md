@@ -15,7 +15,6 @@
 [NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
 [Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>
 [唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
-[老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml>
 [Lex Tang](http://lexrus.com/) | <http://lexrus.com/feed.xml>
 [念茜的博客](http://nianxi.net) | <http://nianxi.net/feed.xml>
 [Xcode Dev](http://blog.xcodev.com) | <http://blog.xcodev.com/atom.xml>
@@ -39,10 +38,10 @@
 [Lancy's Blog](http://gracelancy.com) | <http://gracelancy.com/atom.xml>
 [I'm Allen](http://www.imallen.com) | <http://www.imallen.com/atom.xml>
 [Travis' Blog](http://imi.im/)| <http://imi.im/feed>
-[王中周的技术博客](http://wangzz.github.io/) |<http://wangzz.github.io/atom.xml>
-[会写代码的猪](http://jiajun.org/)|<http://gaosboy.com/feed/atom/>
-[克伟的博客](http://wangkewei.cnblogs.com/)|<http://feed.cnblogs.com/blog/u/23857/rss>
-[摇滚诗人](http://cnblogs.com/biosli)|<http://feed.cnblogs.com/blog/u/35410/rss>
+[王中周的技术博客](http://wangzz.github.io/) | <http://wangzz.github.io/atom.xml>
+[会写代码的猪](http://jiajun.org/) | <http://gaosboy.com/feed/atom/>
+[克伟的博客](http://wangkewei.cnblogs.com/) | <http://feed.cnblogs.com/blog/u/23857/rss>
+[摇滚诗人](http://cnblogs.com/biosli) | <http://feed.cnblogs.com/blog/u/35410/rss>
 [Luke's Homepage](http://geeklu.com/) | <http://geeklu.com/feed/>
 [萧宸宇](http://iiiyu.com/) | <http://iiiyu.com/atom.xml>
 [Yuan博客](http://www.heyuan110.com/) | <http://www.heyuan110.com/?feed=rss2>
@@ -63,4 +62,4 @@
 [Casa Taloyum](http://casatwy.com/) | <http://casatwy.com/feeds/all.atom.xml>
 [Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/) | <http://www.cnblogs.com/kenshincui/rss>
 [技术哥的博客](http://suenblog.duapp.com/) | <http://suenblog.duapp.com/rss/>
-
+[老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml>

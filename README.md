@@ -20,7 +20,7 @@
 [Xcode Dev](http://blog.xcodev.com) | <http://blog.xcodev.com/atom.xml>
 [Ted's Homepage](http://wufawei.com/)| <http://wufawei.com/feed>
 [txx's blog](http://blog.t-xx.me) | <http://blog.t-xx.me/atom.xml>
-[KEVIN BLOG](http://imkevin.me) | <http://imkevin.me/rss>
+[Kevin Blog](http://zhowkev.in) | <http://zhowkev.in/rss>
 [阿毛的蛋疼地](http://www.xiangwangfeng.com) | <http://www.xiangwangfeng.com/atom.xml>
 [亚庆的 Blog](http://billwang1990.github.io) | <http://billwang1990.github.io/atom.xml>
 [Nonomori](http://nonomori.farbox.com) | <http://nonomori.farbox.com/feed>
@@ -30,7 +30,7 @@
 [Cocoabit](http://blog.cocoabit.com) | <http://blog.cocoabit.com/atom.xml>
 [nixzhu on scriptogr.am](http://nixzhu.me) | <http://nixzhu.me/feed>
 [不会开机的男孩](http://studentdeng.github.io) | <http://studentdeng.github.io/atom.xml>
-[Nico](http://www.taofengping.com) | <http://www.taofengping.com/rss.xml>
+[Nico](http://blog.inico.me) | <http://blog.inico.me/atom.xml>
 [阿峰的技术窝窝](http://hufeng825.github.io) | <http://hufeng825.github.io/atom.xml>
 [answer_huang](http://answerhuang.duapp.com) | <http://answerhuang.duapp.com/index.php/feed/>
 [webfrogs](http://blog.nswebfrog.com/) | <http://blog.nswebfrog.com/feed/>
@@ -60,3 +60,6 @@
 [土土哥的技术Blog](http://tutuge.me/) | <http://tutuge.me/atom.xml>
 [庞海礁的个人空间 ](http://www.olinone.com/) | <http://www.olinone.com/?feed=rss2>
 [Casa Taloyum](http://casatwy.com/) | <http://casatwy.com/feeds/all.atom.xml>
+[Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/) | <http://www.cnblogs.com/kenshincui/rss>
+[技术哥的博客](http://suenblog.duapp.com/) | <http://suenblog.duapp.com/rss/>
+

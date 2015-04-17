@@ -57,3 +57,6 @@
 [里脊串的开发随笔](http://adad184.com) | <http://adad184.com/atom.xml>
 [Chun Tips](http://chun.tips/)| <http://chun.tips/atom.xml>
 [Why's blog - 汪海的实验室](http://blog.callmewhy.com/) | <http://blog.callmewhy.com/atom.xml>
+[土土哥的技术Blog](http://tutuge.me/) | <http://tutuge.me/atom.xml>
+[庞海礁的个人空间 ](http://www.olinone.com/) | <http://www.olinone.com/?feed=rss2>
+[Casa Taloyum](http://casatwy.com/) | <http://casatwy.com/feeds/all.atom.xml>

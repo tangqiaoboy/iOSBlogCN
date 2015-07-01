@@ -63,3 +63,4 @@
 [Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/) | <http://www.cnblogs.com/kenshincui/rss>
 [技术哥的博客](http://suenblog.duapp.com/) | <http://suenblog.duapp.com/rss/>
 [老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml>
+[coderyi](http://www.coderyi.com/)|<http://www.coderyi.com/feed>

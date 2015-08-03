@@ -51,4 +51,6 @@
 <outline text="Casa Taloyum" title="Casa Taloyum" type="rss" xmlUrl="http://casatwy.com/feeds/all.atom.xml" htmlUrl="http://casatwy.com/"/>
 <outline text="Kenshin Cui's Blog" title="Kenshin Cui's Blog" type="rss" xmlUrl="http://www.cnblogs.com/kenshincui/rss" htmlUrl="http://www.cnblogs.com/kenshincui/"/>
 <outline text="技术哥的博客" title="技术哥的博客" type="rss" xmlUrl="http://suenblog.duapp.com/rss/" htmlUrl="http://suenblog.duapp.com/"/>
-<outline text="老谭笔记" title="老谭笔记" type="rss" xmlUrl="http://www.tanhao.me/atom.xml" htmlUrl="http://www.tanhao.me/"/></outline></body></opml>
+<outline text="老谭笔记" title="老谭笔记" type="rss" xmlUrl="http://www.tanhao.me/atom.xml" htmlUrl="http://www.tanhao.me/"/>
+<outline text="coderyi" title="coderyi" type="rss" xmlUrl="http://www.coderyi.com/feed" htmlUrl="http://www.coderyi.com/"/>
+<outline text="雷纯锋的技术博客" title="雷纯锋的技术博客" type="rss" xmlUrl="http://blog.leichunfeng.com/atom.xml" htmlUrl="http://blog.leichunfeng.com"/></outline></body></opml>

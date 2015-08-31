@@ -53,4 +53,6 @@
 <outline text="技术哥的博客" title="技术哥的博客" type="rss" xmlUrl="http://suenblog.duapp.com/rss/" htmlUrl="http://suenblog.duapp.com/"/>
 <outline text="老谭笔记" title="老谭笔记" type="rss" xmlUrl="http://www.tanhao.me/atom.xml" htmlUrl="http://www.tanhao.me/"/>
 <outline text="coderyi" title="coderyi" type="rss" xmlUrl="http://www.coderyi.com/feed" htmlUrl="http://www.coderyi.com/"/>
-<outline text="雷纯锋的技术博客" title="雷纯锋的技术博客" type="rss" xmlUrl="http://blog.leichunfeng.com/atom.xml" htmlUrl="http://blog.leichunfeng.com"/></outline></body></opml>
+<outline text="雷纯锋的技术博客" title="雷纯锋的技术博客" type="rss" xmlUrl="http://blog.leichunfeng.com/atom.xml" htmlUrl="http://blog.leichunfeng.com"/>
+<outline text="南峰子的技术博客" title="南峰子的技术博客" type="rss" xmlUrl="http://southpeak.github.io/atom.xml"
+    htmlUrl="http://southpeak.github.io/"/></outline></body></opml>

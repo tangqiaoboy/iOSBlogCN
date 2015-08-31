@@ -65,3 +65,4 @@
 [老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml>
 [coderyi](http://www.coderyi.com/)|<http://www.coderyi.com/feed>
 [雷纯锋的技术博客](http://blog.leichunfeng.com) | <http://blog.leichunfeng.com/atom.xml>
+[男峰子的技术博客](http://southpeak.github.io/) | <http://southpeak.github.io/atom.xml>

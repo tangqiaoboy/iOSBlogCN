@@ -20,6 +20,7 @@
 [Xcode Dev](http://blog.xcodev.com) | <http://blog.xcodev.com/atom.xml>
 [Ted's Homepage](http://wufawei.com/)| <http://wufawei.com/feed>
 [txx's blog](http://blog.t-xx.me) | <http://blog.t-xx.me/atom.xml>
+[sunnyxx的技术博客](http://blog.sunnyxx.com/) | <http://blog.sunnyxx.com/atom.xml>
 [Kevin Blog](http://zhowkev.in) | <http://zhowkev.in/rss>
 [阿毛的蛋疼地](http://www.xiangwangfeng.com) | <http://www.xiangwangfeng.com/atom.xml>
 [亚庆的 Blog](http://billwang1990.github.io) | <http://billwang1990.github.io/atom.xml>

@@ -11,6 +11,7 @@
 博客地址 | RSS地址
 ----- | -----
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
+[一只魔法师的工坊](http://blog.ibireme.com/) | <http://blog.ibireme.com/feed/>
 [破船之家](http://beyondvincent.com) | <http://beyondvincent.com/atom.xml>
 [NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
 [Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>

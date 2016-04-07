@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>导出订阅</title></head><body><outline text="ios" title="ios" >
 <outline text="OneV's Den" title="OneV's Den" type="rss" xmlUrl="http://onevcat.com/atom.xml" htmlUrl="http://onevcat.com"/>
+<outline text="一只魔法师的工坊" title="一只魔法师的工坊" type="rss" xmlUrl="http://blog.ibireme.com/feed/" htmlUrl="http://blog.ibireme.com/"/>
 <outline text="破船之家" title="破船之家" type="rss" xmlUrl="http://beyondvincent.com/atom.xml" htmlUrl="http://beyondvincent.com"/>
 <outline text="NSHipster" title="NSHipster" type="rss" xmlUrl="http://nshipster.cn/feed.xml" htmlUrl="http://nshipster.cn"/>
 <outline text="Limboy 无网不剩" title="Limboy 无网不剩" type="rss" xmlUrl="http://feeds.feedburner.com/lzyy" htmlUrl="http://blog.leezhong.com/"/>

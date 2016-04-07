@@ -66,3 +66,6 @@
 [老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml>
 [coderyi](http://www.coderyi.com/)|<http://www.coderyi.com/feed>
 [雷纯锋的技术博客](http://blog.leichunfeng.com) | <http://blog.leichunfeng.com/atom.xml>
+[向晨宇的技术博客](http://www.iosxxx.com/) | <http://iosxxx.com/atom.xml>
+
+

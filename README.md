@@ -16,10 +16,7 @@
 [NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
 [Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>
 [唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
-[Lex Tang](http://lexrus.com/) | <http://lexrus.com/feed.xml>
-[Xcode Dev](http://blog.xcodev.com) | <http://blog.xcodev.com/atom.xml>
 [Ted's Homepage](http://wufawei.com/)| <http://wufawei.com/feed>
-[txx's blog](http://blog.t-xx.me) | <http://blog.t-xx.me/atom.xml>
 [sunnyxx的技术博客](http://blog.sunnyxx.com/) | <http://blog.sunnyxx.com/atom.xml>
 [Kevin Blog](http://zhowkev.in) | <http://zhowkev.in/rss>
 [阿毛的蛋疼地](http://www.xiangwangfeng.com) | <http://www.xiangwangfeng.com/atom.xml>
@@ -29,7 +26,6 @@
 [Wonderffee's Blog](http://wonderffee.github.io) | <http://wonderffee.github.io/atom.xml>
 [I'm TualatriX](http://imtx.me) | <http://imtx.me/feed/latest/>
 [Cocoabit](http://blog.cocoabit.com) | <http://blog.cocoabit.com/rss/>
-[nixzhu on scriptogr.am](http://nixzhu.me) | <http://nixzhu.me/feed>
 [不会开机的男孩](http://studentdeng.github.io) | <http://studentdeng.github.io/atom.xml>
 [Nico](http://blog.inico.me) | <http://blog.inico.me/atom.xml>
 [阿峰的技术窝窝](http://hufeng825.github.io) | <http://hufeng825.github.io/atom.xml>
@@ -40,14 +36,11 @@
 [I'm Allen](http://www.imallen.com) | <http://www.imallen.com/atom.xml>
 [Travis' Blog](http://imi.im/)| <http://imi.im/feed>
 [王中周的技术博客](http://wangzz.github.io/) | <http://wangzz.github.io/atom.xml>
-[会写代码的猪](http://jiajun.org/) | <http://gaosboy.com/feed/atom/>
 [克伟的博客](http://wangkewei.cnblogs.com/) | <http://feed.cnblogs.com/blog/u/23857/rss>
 [摇滚诗人](http://cnblogs.com/biosli) | <http://feed.cnblogs.com/blog/u/35410/rss>
 [Luke's Homepage](http://geeklu.com/) | <http://geeklu.com/feed/>
 [萧宸宇](http://iiiyu.com/) | <http://iiiyu.com/atom.xml>
 [Yuan博客](http://www.heyuan110.com/) | <http://www.heyuan110.com/?feed=rss2>
-[Shining IO](http://shiningio.com/) | <http://shiningio.com/atom.xml>
-[YIFEIYANG--易飞扬的博客](http://www.yifeiyang.net/) | <http://www.yifeiyang.net/feed>
 [KooFrank's Blog](http://koofrank.com/) | <http://koofrank.com/rss>
 [hello it works](http://helloitworks.com) | <http://helloitworks.com/feed>
 [码农人生](http://msching.github.io/) | <http://msching.github.io/atom.xml>

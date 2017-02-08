@@ -22,7 +22,6 @@
 [阿毛的蛋疼地](http://www.xiangwangfeng.com) | <http://www.xiangwangfeng.com/atom.xml>
 [亚庆的 Blog](http://billwang1990.github.io) | <http://billwang1990.github.io/atom.xml>
 [Nonomori](http://nonomori.farbox.com) | <http://nonomori.farbox.com/feed>
-[言无不尽](http://tang3w.com) | <http://tang3w.com/atom.xml>
 [Wonderffee's Blog](http://wonderffee.github.io) | <http://wonderffee.github.io/atom.xml>
 [I'm TualatriX](http://imtx.me) | <http://imtx.me/feed/latest/>
 [Cocoabit](http://blog.cocoabit.com) | <http://blog.cocoabit.com/rss/>
@@ -49,7 +48,6 @@
 [猫·仁波切](https://andelf.github.io/) | <https://andelf.github.io/atom.xml>
 [煲仔饭](http://ivoryxiong.org/) | <http://ivoryxiong.org/feed.xml>
 [里脊串的开发随笔](http://adad184.com) | <http://adad184.com/atom.xml>
-[Chun Tips](http://chun.tips/)| <http://chun.tips/atom.xml>
 [Why's blog - 汪海的实验室](http://blog.callmewhy.com/) | <http://blog.callmewhy.com/atom.xml>
 [土土哥的技术Blog](http://tutuge.me/) | <http://tutuge.me/atom.xml>
 [庞海礁的个人空间 ](http://www.olinone.com/) | <http://www.olinone.com/?feed=rss2>
@@ -60,5 +58,4 @@
 [coderyi](http://www.coderyi.com/)|<http://www.coderyi.com/feed>
 [雷纯锋的技术博客](http://blog.leichunfeng.com) | <http://blog.leichunfeng.com/atom.xml>
 [向晨宇的技术博客](http://www.iosxxx.com/) | <http://iosxxx.com/atom.xml>
-
 

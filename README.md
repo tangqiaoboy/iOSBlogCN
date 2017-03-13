@@ -14,7 +14,7 @@
 [一只魔法师的工坊](http://blog.ibireme.com/) | <http://blog.ibireme.com/feed/>
 [破船之家](http://beyondvincent.com) | <http://beyondvincent.com/atom.xml>
 [NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
-[Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>
+[Limboy 无网不剩](http://limboy.me/) | <http://feeds.feedburner.com/lzyy>
 [唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
 [Ted's Homepage](http://wufawei.com/)| <http://wufawei.com/feed>
 [sunnyxx的技术博客](http://blog.sunnyxx.com/) | <http://blog.sunnyxx.com/atom.xml>

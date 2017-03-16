@@ -25,13 +25,8 @@
 [Wonderffee's Blog](http://wonderffee.github.io) | <http://wonderffee.github.io/atom.xml>
 [I'm TualatriX](http://imtx.me) | <http://imtx.me/feed/latest/>
 [Cocoabit](http://blog.cocoabit.com) | <http://blog.cocoabit.com/rss/>
-[不会开机的男孩](http://studentdeng.github.io) | <http://studentdeng.github.io/atom.xml>
-[Nico](http://blog.inico.me) | <http://blog.inico.me/atom.xml>
-[阿峰的技术窝窝](http://hufeng825.github.io) | <http://hufeng825.github.io/atom.xml>
-[answer_huang](http://answerhuang.duapp.com) | <http://answerhuang.duapp.com/index.php/feed/>
 [webfrogs](http://blog.nswebfrog.com/) | <http://blog.nswebfrog.com/feed/>
 [代码手工艺人](http://joeyio.com) | <http://joeyio.com/atom.xml>
-[Lancy's Blog](http://gracelancy.com) | <http://gracelancy.com/atom.xml>
 [I'm Allen](http://www.imallen.com) | <http://www.imallen.com/atom.xml>
 [Travis' Blog](http://imi.im/)| <http://imi.im/feed>
 [王中周的技术博客](http://wangzz.github.io/) | <http://wangzz.github.io/atom.xml>
@@ -39,7 +34,6 @@
 [摇滚诗人](http://cnblogs.com/biosli) | <http://feed.cnblogs.com/blog/u/35410/rss>
 [Luke's Homepage](http://geeklu.com/) | <http://geeklu.com/feed/>
 [萧宸宇](http://iiiyu.com/) | <http://iiiyu.com/atom.xml>
-[Yuan博客](http://www.heyuan110.com/) | <http://www.heyuan110.com/?feed=rss2>
 [KooFrank's Blog](http://koofrank.com/) | <http://koofrank.com/rss>
 [hello it works](http://helloitworks.com) | <http://helloitworks.com/feed>
 [码农人生](http://msching.github.io/) | <http://msching.github.io/atom.xml>

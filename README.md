@@ -54,7 +54,6 @@
 [庞海礁的个人空间 ](http://www.olinone.com/) | <http://www.olinone.com/?feed=rss2>
 [Casa Taloyum](http://casatwy.com/) | <http://casatwy.com/feeds/all.atom.xml>
 [Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/) | <http://www.cnblogs.com/kenshincui/rss>
-[技术哥的博客](http://suenblog.duapp.com/) | <http://suenblog.duapp.com/rss/>
 [老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml>
 [coderyi](http://www.coderyi.com/)|<http://www.coderyi.com/feed>
 [雷纯锋的技术博客](http://blog.leichunfeng.com) | <http://blog.leichunfeng.com/atom.xml>

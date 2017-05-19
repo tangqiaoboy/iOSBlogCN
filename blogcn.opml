@@ -46,4 +46,5 @@
 <outline text="老谭笔记" title="老谭笔记" type="rss" xmlUrl="http://www.tanhao.me/atom.xml" htmlUrl="http://www.tanhao.me/"/>
 <outline text="coderyi" title="coderyi" type="rss" xmlUrl="http://www.coderyi.com/feed" htmlUrl="http://www.coderyi.com/"/>
 <outline text="雷纯锋的技术博客" title="雷纯锋的技术博客" type="rss" xmlUrl="http://blog.leichunfeng.com/atom.xml" htmlUrl="http://blog.leichunfeng.com"/>
-<outline text="向晨宇的技术博客" title="向晨宇的技术博客" type="rss" xmlUrl="http://iosxxx.com/atom.xml" htmlUrl="http://www.iosxxx.com/"/></outline></body></opml>
+<outline text="向晨宇的技术博客" title="向晨宇的技术博客" type="rss" xmlUrl="http://iosxxx.com/atom.xml" htmlUrl="http://www.iosxxx.com/"/>
+<outline text="FengJian's Blog" title="FengJian's Blog" type="rss" xmlUrl="http://fengjian0106.github.io/atom.xml" htmlUrl="http://fengjian0106.github.io/"/></outline></body></opml>

@@ -4,7 +4,7 @@ __author__ = 'wwxiang'
 
 import os
 import re
-
+//你是傻逼
 work = os.getcwd()
 resxml = work + os.path.sep + 'blogcn.opml'
 workmd = work + os.path.sep + 'README.md'

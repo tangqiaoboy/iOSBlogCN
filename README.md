@@ -58,3 +58,5 @@
 [雷纯锋的技术博客](http://blog.leichunfeng.com) | <http://blog.leichunfeng.com/atom.xml>
 [向晨宇的技术博客](http://www.iosxxx.com/) | <http://iosxxx.com/atom.xml>
 [FengJian's Blog](http://fengjian0106.github.io/) | <http://fengjian0106.github.io/atom.xml>
+[跳动的神经元](https://github.com/georgezouq/blog) | 无
+

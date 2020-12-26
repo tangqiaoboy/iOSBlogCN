@@ -60,4 +60,5 @@
 [FengJian's Blog](http://fengjian0106.github.io/) | <http://fengjian0106.github.io/atom.xml>
 [跳动的神经元](https://github.com/georgezouq/blog) | 无
 [步步走前端](https://bubuzou.com/) | 无
+[面向信仰编程](https://draveness.me/) | https://draveness.me/feed.xml
 

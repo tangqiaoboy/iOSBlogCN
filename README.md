@@ -58,6 +58,8 @@
 [雷纯锋的技术博客](http://blog.leichunfeng.com) | <http://blog.leichunfeng.com/atom.xml>
 [向晨宇的技术博客](http://www.iosxxx.com/) | <http://iosxxx.com/atom.xml>
 [FengJian's Blog](http://fengjian0106.github.io/) | <http://fengjian0106.github.io/atom.xml>
+[未知文明](https://www.xwenming.com) | <https://www.xwenming.com/index.php/feed>
+[刘悦的技术博客](https://v3u.cn) | <https://v3u.cn/sitemap.xml>
 [跳动的神经元](https://github.com/georgezouq/blog) | 无
 [步步走前端](https://bubuzou.com/) | 无
 [面向信仰编程](https://draveness.me/) | <https://draveness.me/feed.xml>

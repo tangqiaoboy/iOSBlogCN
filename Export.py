@@ -26,7 +26,10 @@ def handler():
                 if not val[0] == '[':
                     continue
                 title = re.findall(r'\[(.+?)\]',val)[0]
-                xmlUrl = re.findall(r'<(.+?)>',val)[0]
+                xmlUrls = re.findall(r'<(.+?)>',val)
+                if not xmlUrls:
+                    continue
+                xmlUrl = xmlUrls[0]
                 htmlUrl = re.findall(r'\((.+?)\)',val)[0]
                 handlerData.append('<outline text="{0}" title="{0}" type="rss" xmlUrl="{1}" htmlUrl="{2}"/>'.format(title,xmlUrl,htmlUrl))
             fs.close()

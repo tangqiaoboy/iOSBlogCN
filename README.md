@@ -21,14 +21,6 @@
 [Kevin Blog](http://zhowkev.in) | <http://zhowkev.in/rss>
 [阿毛的蛋疼地](http://www.xiangwangfeng.com) | <http://www.xiangwangfeng.com/atom.xml>
 [亚庆的 Blog](http://billwang1990.github.io) | <http://billwang1990.github.io/atom.xml>
-[Nonomori](http://nonomori.farbox.com) | <http://nonomori.farbox.com/feed>
-[Wonderffee's Blog](http://wonderffee.github.io) | <http://wonderffee.github.io/atom.xml>
-[I'm TualatriX](http://imtx.me) | <http://imtx.me/feed/latest/>
-[Cocoabit](http://blog.cocoabit.com) | <http://blog.cocoabit.com/rss/>
-[不会开机的男孩](http://studentdeng.github.io) | <http://studentdeng.github.io/atom.xml>
-[Nico](http://blog.inico.me) | <http://blog.inico.me/atom.xml>
-[阿峰的技术窝窝](http://hufeng825.github.io) | <http://hufeng825.github.io/atom.xml>
-[answer_huang](http://answerhuang.duapp.com) | <http://answerhuang.duapp.com/index.php/feed/>
 [webfrogs](http://blog.nswebfrog.com/) | <http://blog.nswebfrog.com/feed/>
 [代码手工艺人](http://joeyio.com) | <http://joeyio.com/atom.xml>
 [Lancy's Blog](http://gracelancy.com) | <http://gracelancy.com/atom.xml>
